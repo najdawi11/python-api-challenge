@@ -1,2 +1,2 @@
-weather_api_key = "6eb99c31322c10fb56f41dfe5ad5631e"
-geoapify_key="4850bde458949e78672d029fdebb822"
+# Geoapify API Key
+geoapify_key = "e4850bde458949e78672d029fdebb822"
